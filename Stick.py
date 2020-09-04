@@ -15,7 +15,7 @@ while sticks > 0:
     if sticks <= 0:
         print(f"Oyunda çubuq qalmadı. \nPlayer {player_turn} uduzdu(")
 
-    player_turn = 1 if player_turn == 2 else 2
+    
 
 
 
